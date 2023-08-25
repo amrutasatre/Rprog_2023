@@ -1,2 +1,3 @@
 # Rprog_2023
-class notes/practice
+Class notes/practice
+functions 
